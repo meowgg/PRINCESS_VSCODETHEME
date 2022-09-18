@@ -7,6 +7,7 @@
     "explorer.confirmDelete": false,
     "workbench.colorCustomizations":{
       "editor.background": "#ffffff",
+      "editorGroup.dropBackground": "#B8DDD6",
       "sideBar.background":"#EBAAB0",
       "sideBarTitle.foreground": "#ffffff",
       "sideBarSectionHeader.foreground": "#ffffff"
